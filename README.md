@@ -1,4 +1,4 @@
-## Data Science Projects:
+## Data Science Projects :octocat::
 - Design, Analysis, and Experimentation
 - Descriptive, Predictive, and Prescriptive Analytics
 - Forecasting
