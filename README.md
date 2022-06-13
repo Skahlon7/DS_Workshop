@@ -5,7 +5,7 @@
 - UI/UX/GUI
 - Machine Learning
 ----
-# Libraries Incorporated:
+## Libraries Incorporated 📖:
 ``` Python
 scikitlearn
 pandas
