@@ -6,6 +6,8 @@
 - Machine Learning
 ----
 # Libraries Incorporated:
-''' Python
-seaborn
-'''
+``` Python
+def f(x):
+    """Function f(x) = x^2"""
+    return x**2
+```
