@@ -75,8 +75,4 @@ sqllite3
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a> 
   
- <a href="#">
-    <img src="/Users/sandeepk/Downloads/excel_logo.svg" alt="MS Excel" style="vertical-align:top; margin:4px">
-  </a>
-
 </p>
