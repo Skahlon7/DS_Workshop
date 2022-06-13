@@ -7,5 +7,12 @@
 ----
 # Libraries Incorporated:
 ``` Python
-import seaborn
+scikitlearn
+pandas
+numpy
+seaborn
+matplotlib
+tkinter
+random
+sqllite3
 ```
