@@ -6,7 +6,7 @@
 - Machine Learning
 ----
 ## Programs 💻:
-- Python ![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) <div style="width:50px; height:50px">
+- Python ![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) <div style="width:50px; height:10px">
 - SQL
 - R 
 ----
