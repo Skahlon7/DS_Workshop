@@ -7,7 +7,5 @@
 ----
 # Libraries Incorporated:
 ``` Python
-def f(x):
-    """Function f(x) = x^2"""
-    return x**2
+def
 ```
