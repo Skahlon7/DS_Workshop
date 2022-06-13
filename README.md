@@ -7,5 +7,5 @@
 ----
 # Libraries Incorporated:
 ``` Python
-seaborn
+import seaborn
 ```
