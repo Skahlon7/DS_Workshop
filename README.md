@@ -5,3 +5,7 @@
 - UI/UX/GUI
 - Machine Learning
 ----
+# Libraries Incorporated:
+''' Python
+seaborn
+'''
