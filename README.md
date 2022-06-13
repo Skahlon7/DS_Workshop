@@ -16,3 +16,9 @@ tkinter
 random
 sqllite3
 ```
+----
+## Research Focus 🔎:
+- Environmental (GEO)
+- Athletics
+- Demographic
+- Sales/Revenue
